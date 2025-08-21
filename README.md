@@ -6,7 +6,8 @@ I am passionate about creating **efficient, scalable, and impactful software** w
 ---
 
 # 🌐 Socials
-- [LinkedIn] www.linkedin.com/in/wiam-amhaouech  
+- [LinkedIn](https://www.linkedin.com/in/wiam-amhaouech)
+  
 - [Email] amhaouechwiam@gmail.com 
 
 ---
