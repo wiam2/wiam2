@@ -37,6 +37,9 @@ I am passionate about creating **efficient, scalable, and impactful software** w
 
 
 ---
-
 # 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wiam2&show_icons=true&theme=default)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiam2&layout=compact&theme=dark)
+
