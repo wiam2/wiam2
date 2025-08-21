@@ -1,7 +1,11 @@
 # 💫 About Me
 I am a **Software Engineering graduate** from ENSA Tangier with experience in software development through internships, freelance projects, and professional work.  
-My background includes building **web applications, microservices**.  
-I am passionate about creating **efficient, scalable, and impactful software** while continuously learning and contributing to the tech community.  
+My expertise includes building **web applications, microservices, and data-driven solutions**, and I enjoy working across the full software development lifecycle.  
+
+I have a strong interest in **DevOps and software architecture**, with skills in containerization, orchestration, and CI/CD practices.  
+I am motivated by solving real-world problems with technology and delivering **scalable, efficient, and maintainable solutions**.  
+
+Beyond technical skills, I value **teamwork, knowledge sharing, and continuous learning**. I enjoy collaborating on projects, exploring new technologies, and contributing to the developer community.    
 
 ---
 
