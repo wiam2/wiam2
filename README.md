@@ -22,7 +22,6 @@ I am passionate about creating **efficient, scalable, and impactful software** w
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
@@ -31,10 +30,9 @@ I am passionate about creating **efficient, scalable, and impactful software** w
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=orange)
+
 
 
 ---
